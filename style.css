@@ -15,17 +15,24 @@
 
 .not-found__content {
   margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .not-found__illustration {
-  width: 100%;
+  width: 90%;
+  margin: auto;
+}
+
+.not-found__content-text {
+  max-width: 586px;
 }
 
 .not-found__heading {
   font-family: 'Space Mono', monospace;
   font-size: 40px;
   font-weight: bold;
-  line-height: 54px;
+  line-height: 56px;
   color: #333333;
   margin-top: 40px;
 }
@@ -33,7 +40,7 @@
 .not-found__info {
   font-family: 'Space Mono', monospace;
   font-size: 18px;
-  line-height: 27px;
+  line-height: 24px;
   color: #4F4F4F;
   margin-top: 24px;
 }
@@ -64,4 +71,49 @@
 
 .not-found__footer-link {
   font-weight: bold;
+}
+
+@media only screen and (min-width: 1024px) {
+  .not-found__illustration {
+    max-width: 480px;
+  }
+
+  .not-found__content-text {
+    max-width: 400px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .not-found__page {
+    padding: 40px 72px 24px 72px;
+  }
+  
+  .not-found__content {
+    margin-top: 200px;
+  }
+  
+  .not-found__content-text {
+    max-width: 586px;
+  }
+  
+  .not-found__heading {
+    font-size: 64px;
+    line-height: 80px;
+  }
+  
+  .not-found__info {
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 32px;
+  }
+  
+  .not-found__back-button {
+    margin: 32px 0;
+  }
+  
+  .not-found__footer {
+  }
+  
+  .not-found__footer-link {
+  }
 }
