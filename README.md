@@ -1,4 +1,4 @@
-<!-- Please update value in the {}  -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad68311d-c260-485b-a7aa-2337fa714d23/deploy-status)](https://app.netlify.com/sites/egpereira-devchallenge-01/deploys)
 
 <h1 align="center">404 Not Found</h1>
 
@@ -34,6 +34,7 @@ Aiming to exercise building sites with acessibility in mind, I tried my best to 
 
 - HTML
 - CSS
+- [Netlify](https://www.netlify.com/)
 
 ## Features
 
