@@ -3,7 +3,7 @@
 <h1 align="center">404 Not Found</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">DevChallenges.io</a>.
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Egpereira/404-not-found">
+    <a href="https://devchallenges.io/solutions/PDMoh6USW905dfQc49OY">
       Solution
     </a>
     <span> | </span>
