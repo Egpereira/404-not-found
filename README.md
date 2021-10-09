@@ -28,7 +28,7 @@
 
 In [this project](https://egpereira-devchallenge-01.netlify.app/) I had to replicate a simple not found page based on the given design. The major challenge was to get the responsive layout working as I wanted on different screen sizes, since the provided layout only had two screen size specifications.
 
-Aiming to exercise building sites with acessibility in mind, I tried my best to use the correct HTML tags for each of the components and made some personal changes on the used colors to make sure they all reached the minimum contrast level of the [WCAG Contrast (Enchanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) success criterion. The [WCAG Focus Appearence (Enchanced)](https://w3c.github.io/wcag/understanding/focus-appearance-enhanced) sucess criterion was also considered when developing the focus of clickable elements.
+Aiming to exercise building sites with accessibility in mind, I tried my best to use the correct HTML tags for each of the components and made some personal changes on the used colors to make sure they all reached the minimum contrast level of the [WCAG Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) success criterion. The [WCAG Focus Appearance (Enhanced)](https://w3c.github.io/wcag/understanding/focus-appearance-enhanced) success criterion was also considered when developing the focus of clickable elements.
 
 ### Built With
 
